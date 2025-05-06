@@ -1,8 +1,4 @@
 /*
-* Student ID : w2051781/ 20230828
-*  name: W. A. Gimhani Sandareka
-*/
-/*
     Purpose:
     This file defines the Graph data structure used to model the directed
     flow network using a 2D array to store edge capacities.
