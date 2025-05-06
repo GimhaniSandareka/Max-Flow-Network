@@ -1,8 +1,4 @@
 /*
-Student ID: w2051781 / 20230828
-name: W.A. Gimhani Sandareka
-*/
-/*
     Purpose: This file implements the Ford-Fulkerson algorithm to compute the maximum flow in a flow network.
     Calculates the maximum flow from a source node to a sink node in the flow network.
     Implementation:
