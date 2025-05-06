@@ -41,7 +41,7 @@ MaxFlowNetwork/
 java -cp src Main
 ```
 
-## output
+## Output
 * Augmenting paths and flow added per iteration.
 * Final maximum flow.
 * Execution time in milliseconds.
