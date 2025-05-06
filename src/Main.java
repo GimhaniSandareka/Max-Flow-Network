@@ -1,8 +1,4 @@
 /*
-* Student ID: w2051781/ 20230828
-* Name: W.A. Gimhani Sandareka
-*/
-/*
     This file controls the whole execution flow.
     Purpose: Main class to read benchmark files, build graphs,
     run Ford-Fulkerson algorithms to compute maximum flow, and output results.
